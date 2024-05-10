@@ -1,0 +1,2 @@
+## s2e-dev
+A simple ubuntu [s2e](https://github.com/s2e/s2e-env/blob/master/README.md) development environment in docker. Most commands were gathered from the [s2e docs](https://s2e.systems/docs/s2e-env.html) explaining how to setup an environment, with a few tweaks / additions to get it fully working. 
